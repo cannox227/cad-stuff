@@ -1,0 +1,12 @@
+[project]
+name = "cad-stuff"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "build123d>=0.11.1",
+    "matplotlib>=3.10.3",
+    "pyrender2>=0.2.2",
+    "trimesh>=5.1.0",
+]
